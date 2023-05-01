@@ -1,0 +1,27 @@
+.box{
+    margin: 10px 50px 10px 50px;
+    padding: 5px;
+    border: 1px solid black;
+    border-radius: 10px;
+    display:inline-flex;
+    width: 90%;
+}
+.img{
+    width: 30%;
+    border-radius: 50%;
+  
+}
+
+.box1{
+    width: 80%;
+    border: 1px solid black;
+}
+.table{
+    --bs-table-striped-color:none !important;
+    --bs-table-striped-bg:none !important;
+    margin-bottom: 5px !important;
+    background-color: aliceblue
+}
+.card-body{
+    padding: 0 !important;
+}

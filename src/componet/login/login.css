@@ -1,0 +1,10 @@
+.center {
+    text-align: center;
+    }
+
+.center1{
+    justify-content: center !important;
+}
+.mr-3{
+    margin-right: 5px;
+}
